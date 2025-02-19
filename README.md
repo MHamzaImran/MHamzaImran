@@ -1,9 +1,9 @@
-# 💫 About Me:
-👨‍💻 Software Engineer<br>🌐 Full Stack Developer<br>💼 Freelancer<br>📱 Mobile Application Developer<br><br>Feel free to connect with me!<br>
-
+# 💫 About Me:  
+I’m a **Software Engineer** and **Full Stack Developer** who enjoys exploring new technologies and building innovative solutions. Always eager to learn and collaborate—let’s connect! 🚀  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamzaimran) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhamzaimran)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://hamzaimran.vercel.app/)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hamza.imran.92798)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923466248668)
+
 
 # 💻 Tech Stack:
 
