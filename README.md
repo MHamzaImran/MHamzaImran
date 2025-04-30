@@ -39,5 +39,8 @@ I’m a **Software Engineer** and **Full Stack Developer** who enjoys exploring 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhamzaimran&label=Profile%20views&color=0e75b6&style=flat" alt="mhamzaimran" />
+</p>
 
 
